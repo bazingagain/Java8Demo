@@ -1,9 +1,9 @@
-package com.leon.learnjava.chapter1;
+package com.leon.learnjava.part1.chapter1;
 
-import com.leon.learnjava.chapter1.common.Apple;
-import com.leon.learnjava.chapter1.predicate.AppleGreenColorPredicate;
-import com.leon.learnjava.chapter1.predicate.AppleHeavyWeightPredicate;
-import com.leon.learnjava.chapter1.predicate.ApplePredicate;
+import com.leon.learnjava.part1.common.Apple;
+import com.leon.learnjava.part1.chapter1.predicate.AppleGreenColorPredicate;
+import com.leon.learnjava.part1.chapter1.predicate.AppleHeavyWeightPredicate;
+import com.leon.learnjava.part1.chapter1.predicate.ApplePredicate;
 
 import java.util.ArrayList;
 import java.util.Arrays;

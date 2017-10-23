@@ -1,12 +1,11 @@
-package com.leon.learnjava.chapter1;
+package com.leon.learnjava.part1.chapter1;
 
-import com.leon.learnjava.chapter1.common.Apple;
+import com.leon.learnjava.part1.common.Apple;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
-import java.util.stream.Collectors;
 
 /**
  * Created on 22/10/2017.

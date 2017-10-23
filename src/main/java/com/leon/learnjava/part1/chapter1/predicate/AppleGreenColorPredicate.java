@@ -1,6 +1,6 @@
-package com.leon.learnjava.chapter1.predicate;
+package com.leon.learnjava.part1.chapter1.predicate;
 
-import com.leon.learnjava.chapter1.common.Apple;
+import com.leon.learnjava.part1.common.Apple;
 
 /**
  * Created on 22/10/2017.
