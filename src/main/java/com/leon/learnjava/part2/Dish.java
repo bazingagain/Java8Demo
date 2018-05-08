@@ -5,13 +5,13 @@ package com.leon.learnjava.part2.chapter4;
  *
  * @author Xiaolei-Peng
  */
-public class Dash {
+public class Dish {
     private String name;
     private boolean vegetarian;
     private int calories;
     private Type type;
 
-    public Dash(String name, boolean vegetarian, int calories, Type type) {
+    public Dish(String name, boolean vegetarian, int calories, Type type) {
         this.name = name;
         this.vegetarian = vegetarian;
         this.calories = calories;
@@ -49,4 +49,11 @@ public class Dash {
     public void setType(Type type) {
         this.type = type;
     }
+
+    @Override
+    public String toString() {
+        return name;
+    }
+
+    public enum Type {MEAT, FISH, OTHER}
 }
